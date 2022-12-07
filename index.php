@@ -78,7 +78,7 @@ include './conexiones/paginaPrincipalinformacion.php';
                         Fundación Cultural Armonía es una organización sin fines de lucro que nace en Quito con el objetivo de impulsar proyectos
                          educativos y socio-culturales. Nuestra visión es promover el intercambio de experiencias en todos los ámbitos del arte, la educación y la investigación.
                           Brindamos argfreg,regmlrpegkregRgreg
-                          regregrtgrgfkds mkfkfdvfkd  k fkFgdf
+                          regregrtgreirckkkckvkfgfkds mkfkfdvfkd  k fkFgdf
                           fdgfdgs la comunidad las cualidades artísticas de personas de todas las edades: niños, jóvenes y adultos. Además, fomentamos el arte, la cultura y 
                           la música a través de talleres de educación permanente, especializándonos en el área del canto. 
                         </p>
